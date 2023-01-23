@@ -1,5 +1,3 @@
-package TaskCatDog;
-
 import java.util.*;
 
 /**
